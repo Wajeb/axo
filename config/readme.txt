@@ -1,1 +1,5 @@
-paAddress.conf goes here
+The paAddress.conf file is used to configure the Axo Controller library with the IP addresses and port numbers of the PAs.
+
+--Sample--
+192.168.1.2 5001
+192.168.2.5 1234
